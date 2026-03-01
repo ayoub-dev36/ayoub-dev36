@@ -1,19 +1,19 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Ayoub%20Bakkouri&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%26%20Analyst%20%C2%B7%20Business%20Intelligence&descSize=18&descAlignY=60&descColor=C9B8FF" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Ayoub%20Bakkouri&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%26%20Analyst%20-%20Business%20Intelligence&descSize=18&descAlignY=60&descColor=C9B8FF" />
 
 <!-- Animated Typing -->
 <a href="https://github.com/ayoub-dev36">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=720&lines=Data+Engineering+%7C+Analytics+%7C+BI+%F0%9F%93%8A;ETL+Pipelines+%C2%B7+Dashboards+%C2%B7+Data-Driven+Decisions;Open+to+Internships+%26+BI%2FData+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=720&lines=Data+Engineering+%7C+Analytics+%7C+BI;ETL+Pipelines+-+Dashboards+-+Data-Driven+Decisions;Open+to+Internships+%26+BI+%2F+Data+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Status Badges -->
-<img src="https://img.shields.io/badge/%F0%9F%87%B2%F0%9F%87%A6%20Morocco-Based-red?style=flat-square&labelColor=0D1117&color=6E40C9" />
+<img src="https://img.shields.io/badge/Morocco-Based-6E40C9?style=flat-square&labelColor=0D1117" />
 &nbsp;
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0D1117&logo=checkmarx&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square&labelColor=0D1117" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%7C%20Analytics%20%7C%20BI-6E40C9?style=flat-square&labelColor=0D1117" />
 &nbsp;
@@ -30,11 +30,11 @@
 ```python
 class AyoubBakkouri:
     degree   = "M.Sc. Machine Learning & Intelligent Multimedia"
-    location = "Morocco 🇲🇦"
+    location = "Morocco"
     focus    = ["Data Engineering", "Business Intelligence", "Data Analytics",
                 "ETL Pipelines", "Cloud Data Platforms"]
     learning = ["Power BI Advanced", "dbt (data build tool)", "Snowflake", "Data Modeling"]
-    looking  = "Data Engineer · Data Analyst · BI Developer Internship"
+    looking  = "Data Engineer | Data Analyst | BI Developer Internship"
     motto    = "Turn raw data into decisions. Build pipelines that scale."
 ```
 
@@ -56,27 +56,26 @@ class AyoubBakkouri:
 
 ### 📊 Business Intelligence & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🔬 Data Analysis & Processing
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🏗️ Data Engineering & ETL
 ![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🗄️ Databases & Data Warehousing
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-00A67E?style=for-the-badge&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -84,17 +83,11 @@ class AyoubBakkouri:
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
 ### 🚀 DevOps & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -131,12 +124,11 @@ class AyoubBakkouri:
     <td width="50%" valign="top">
       <h3>🔍 RAG-Powered Data Q&A System</h3>
       <p>
-        A <strong>Retrieval-Augmented Generation</strong> pipeline enabling natural-language queries over structured & unstructured data sources. Combines vector search with LLM-powered responses for self-service analytics.
+        A <strong>Retrieval-Augmented Generation</strong> pipeline enabling natural-language queries over structured and unstructured data. Combines vector search with LLM-powered responses for self-service analytics.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vector_DB-00A67E?style=flat-square"/>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       </p>
@@ -183,7 +175,7 @@ class AyoubBakkouri:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayoub-dev36&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ayoub-dev36&theme=tokyonight&no-frame=true&margin-w=10&column=6" alt="GitHub Trophies" />
 
 </div>
 
@@ -193,21 +185,7 @@ class AyoubBakkouri:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-dev36&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&hide_border=true&area=true&area_color=6E40C9" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayoub-dev36/ayoub-dev36/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayoub-dev36/ayoub-dev36/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ayoub-dev36/ayoub-dev36/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayoub-dev36&theme=tokyo-night&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6B6B&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
