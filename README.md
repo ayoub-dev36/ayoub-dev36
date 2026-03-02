@@ -1,7 +1,13 @@
+<!-- Header Wave Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=header" />
+
 <div align="center">
 
-<!-- Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header&text=Ayoub%20Bakkouri&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Data%20Engineer%20%26%20Analyst%20-%20Business%20Intelligence&descSize=18&descAlignY=60&descColor=C9B8FF" />
+<!-- Profile Image (GitHub Avatar — always available) -->
+<img src="https://github.com/ayoub-dev36.png?size=150" width="150" alt="Ayoub Bakkouri" />
+
+<h2>Ayoub Bakkouri</h2>
+<p><em>Data Engineer &amp; Analyst &mdash; Business Intelligence</em></p>
 
 <!-- Animated Typing -->
 <a href="https://github.com/ayoub-dev36">
@@ -98,7 +104,7 @@ class AyoubBakkouri:
     <td width="50%" valign="top">
       <h3>☁️ Azure End-to-End Data Pipeline</h3>
       <p>
-        A fully automated <strong>data engineering pipeline</strong> on Microsoft Azure: ingestion via Azure Data Factory, transformation with Databricks & PySpark, storage in Data Lake Gen2, and analytics-ready output with Synapse Analytics.
+        A fully automated <strong>data engineering pipeline</strong> on Microsoft Azure: ingestion via Azure Data Factory, transformation with Databricks &amp; PySpark, storage in Data Lake Gen2, and analytics-ready output with Synapse Analytics.
       </p>
       <p>
         <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
@@ -108,7 +114,7 @@ class AyoubBakkouri:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 BI Dashboard & Analytics</h3>
+      <h3>📊 BI Dashboard &amp; Analytics</h3>
       <p>
         An interactive <strong>Business Intelligence</strong> solution with Power BI dashboards delivering KPIs, trend analysis, and executive-level reporting. Built on a star-schema data model with automated ETL refresh.
       </p>
@@ -122,7 +128,7 @@ class AyoubBakkouri:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔍 RAG-Powered Data Q&A System</h3>
+      <h3>🔍 RAG-Powered Data Q&amp;A System</h3>
       <p>
         A <strong>Retrieval-Augmented Generation</strong> pipeline enabling natural-language queries over structured and unstructured data. Combines vector search with LLM-powered responses for self-service analytics.
       </p>
@@ -153,9 +159,9 @@ class AyoubBakkouri:
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ayoub-dev36&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&ring_color=6E40C9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=ayoub-dev36&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9&text_color=C9D1D9&ring_color=6E40C9&border_radius=10&cache_seconds=86400" />
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-dev36&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-dev36&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9&text_color=C9D1D9&border_radius=10&cache_seconds=86400" />
 
 </div>
 
